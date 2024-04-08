@@ -46,7 +46,7 @@ While I am currently focusing on developing my skills and contributing to my pro
 
 **Contacts**
 - GitHub: [@tapaewsky](https://github.com/Tapaewsky)
-- Telegram: [@Said](https;//t.me/sdtpv)
+- Telegram: [@Said](https://t.me/sdtpv)
 - Mail: saidtapaev@mail.ru
 
 
