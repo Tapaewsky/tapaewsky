@@ -4,7 +4,7 @@ Currently, I'm working on a VPN application.
 
 ### **Work Experience**
 
-_*VPN Application - 20.03.2024-Present*_
+_*VPN Application - 20.03.2024-By now*_
 
 ### **Junior iOS Developer, Full-time, Remote**
 
