@@ -1,5 +1,5 @@
 # Tapaewsky
-Hello, I'm Said Tapaev, a Junior iOS Developer.  
+ iOS Developer.  
 Currently, I'm working on a VPN application.
 
 ### **Work Experience**
