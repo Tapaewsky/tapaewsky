@@ -1,6 +1,5 @@
 # Tapaewsky
- iOS Developer.  
-Currently, I'm working on a VPN application.
+ **iOS developer**
 
 ### **Work Experience**
 
