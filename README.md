@@ -5,7 +5,7 @@
 
 _*VPN Application*_
 
-### **Junior iOS Developer, Full-time, Remote**
+### **iOS Developer, Full-time, Remote**
 
 _Description
 Developing a user-friendly VPN application using the WireGuard protocol aimed at providing secure and private internet access. Working on UI/UX design, implementing VPN protocols, and ensuring seamless user experiences._
