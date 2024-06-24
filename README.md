@@ -1,59 +1,37 @@
 # Tapaewsky
- **iOS developer**
-
-### **Work Experience**
-
-_*VPN Application*_
-
-### **iOS Developer, Full-time, Remote**
-
-_Description
-Developing a user-friendly VPN application using the WireGuard protocol aimed at providing secure and private internet access. Working on UI/UX design, implementing VPN protocols, and ensuring seamless user experiences._
-
-
-### **Tech Stack**
-- SwiftUI: For building the UI.
-- WireGuard Protocol: For establishing secure VPN connections with improved performance and security.
-- MVVM Architecture: For separating concerns between the data model, view, and view model layers.
-- NetworkExtension: For configuring and managing VPN connections.
-- Git: For version control.
+Hi! I'm Said Tapaev, SwiftUI IOS Developer.
 
 ## Skills
+- **Swift and iOS Development:** Proficient in Swift programming language with extensive experience in iOS applications.
+- **UI/UX Design:** Skilled in creating visually appealing interfaces using SwiftUI and UIKit.
+- **Architectural Patterns:** Strong understanding of MVVM, MVC, and Clean architecture patterns.
+- **Networking and Data Handling:** Proficient in URLSession, JSON parsing, and integrating with RESTful APIs.
+- **Security and Encryption:** Knowledgeable about data security principles and encryption techniques.
+- **Version Control:** Experienced in Git for version control and collaborating via GitHub.
+- **Testing and Debugging:** Familiar with XCTest framework for unit testing and debugging.
+- **Tools:** Competent in Xcode, Figma, and agile development methodologies.
 
-  - Programming Languages: Swift.
-  - Architectural Pattern: MVVM (Model-View-ViewModel)
-  - SwiftUI,
-  - URLSession, JSON, 
-  - NetworkExtension, 
-  - Xcode, Git,
-  - Networking, VPN Protocols
-  - Security and Encryption
-  - Git, GitHub
-  - Figma
-  - Languages: English (Intermediate B1-B2)
+## Projects
+### DikaVPN
+Explore my latest project, [DikaVPN](https://github.com/Tapaewsky/DikaVPN), a VPN application built with SwiftUI and focused on user privacy and secure internet access.
 
-Contributing to Open-Source Projects
-While I am currently focusing on developing my skills and contributing to my project, I am eager to start contributing to open-source projects related to iOS development and security software in the future.
+### Other Projects
+- **Task Manager App:** Developed a task management app using CoreData for data persistence and SwiftUI for the user interface.
+- **Weather App:** Created a weather forecasting app that fetches data from a REST API and displays it using SwiftUI.
 
-#### **Courses/Books:**
+## Courses and Books
 - [SwiftUI for Beginners](https://www.hackingwithswift.com/quick-start/swiftui)
 - [Networking with Swift](https://swift.org/packages/networking.html)
-- [IT-Cube](http://айтикуб.рф/)
 - [SwiftUI Apple Tutorial](https://developer.apple.com/tutorials/swiftui)
-  
 
-## **Stats**
+## Other Skills
+- **Android Development:** Proficient in Android Studio and Java for developing Android applications.
+- **Cross-Platform Knowledge:** Familiar with concepts and tools for cross-platform development.
+- **Mobile App Design:** Understanding of UI/UX principles for both iOS and Android platforms.
+- **API Integration:** Experience in integrating APIs and handling network requests in Android apps.
+- **Version Control:** Competent in Git for version control and collaboration.
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tapaewsky&show_icons=true&theme=transparent)
-
-
-**Contacts:**
-- GitHub: [@tapaewsky](https://github.com/Tapaewsky)
-- Telegram: [@Said](https://t.me/sdtpv)
-- Mail: saidtapaev@mail.ru
-
-
-
-
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tapaewsky&show_icons=true&theme=blueberry)
 
 
