@@ -32,5 +32,4 @@ Explore my latest project, [DikaVPN](https://github.com/Tapaewsky/DikaVPN), a VP
 - **Version Control:** Competent in Git for version control and collaboration.
 - **Languages:** Russian (native), English (B1).
 
-## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tapaewsky&show_icons=true&theme=blueberry)
+
