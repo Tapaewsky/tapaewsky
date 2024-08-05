@@ -1,5 +1,5 @@
 
-# Hi! I'm Said Tapaev, a SwiftUI iOS Developer.
+#iOS Developer.
 
 ## Skills
 - **Swift and iOS Development:** Proficient in Swift with extensive experience in iOS applications.
