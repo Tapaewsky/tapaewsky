@@ -1,5 +1,5 @@
 ## youngioser
-Hello, I'm Said Tapaev, an iOS application developer.
+Hi, I'm Said Tapaev, an iOS application developer.
 
 Currently working on developing applications for a wholesale store platform **Alfa Market Express.**
   
