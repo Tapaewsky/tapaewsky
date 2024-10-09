@@ -1,6 +1,6 @@
 ## Software Engineer
 
-- **Alfa Market Express:** Currently working on developing applications for Alfa Market Express, a wholesale store platform.
+- **Alfa Market Express:** Currently working on developing applications for a wholesale store platform.
 
 ## Projects
 ### DikaVPN
