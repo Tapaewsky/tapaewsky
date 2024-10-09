@@ -1,13 +1,14 @@
-## Software Engineer
+## youngioser
+Hello, I'm Said Tapaev, an iOS application developer.
 
-- **Alfa Market Express:** Currently working on developing applications for a wholesale store platform.
+Currently working on developing applications for a wholesale store platform **Alfa Market Express.**
   
-##Languages
-- ** Russian (native), English (B1).
+## Languages
+- Russian (native), English (B1).
 
   
 ## Projects
-- **[DikaVPN](https://github.com/Tapaewsky/DikaVPN), a VPN application built with SwiftUI focused on user privacy and secure internet access.
+- **[DikaVPN](https://github.com/Tapaewsky/DikaVPN),** a VPN application built with SwiftUI focused on user privacy and secure internet access.
 - **Task Manager App:** Developed a task management app using CoreData for data persistence and SwiftUI for the user interface.
 - **Weather App:** Created a weather forecasting app that fetches data from a REST API and displays it using SwiftUI.
 
